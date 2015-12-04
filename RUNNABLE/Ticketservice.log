@@ -1,0 +1,10 @@
+12:29:02,529 INFO  [TSSeatsManagement] Entered in to the TSSeatsManagement
+12:29:02,529 INFO  [TicketServiceImpl] Entered in to the TSGetCustmoerInput
+12:29:02,529 INFO  [TSSeatsManagement] Entered in to the TSSeatsManagement
+12:29:02,530 INFO  [TSSeatsManagement] Entered in to the TSSeatsManagement
+12:29:02,530 INFO  [TicketServiceImpl] Entered in to the TSGetCustmoerInput
+12:29:02,530 INFO  [TicketServiceImpl] Entered in to the TicketServiceImpl
+12:29:51,627 DEBUG [TSMainMenuScreen] Customer Selected Check Seats Availability
+12:30:03,820 DEBUG [TSMainMenuScreen] Customer Selected Hold Available Seats  
+12:31:26,053 DEBUG [TSMainMenuScreen] Customer selected Make Reservation of Seats 
+12:31:38,738 DEBUG [TicketServiceImpl] statusMsg:Reservation is Success

@@ -1,0 +1,7 @@
+11:29:51,710 INFO  [TSSeatsManagement] Entered in to the TSSeatsManagement
+11:29:51,711 INFO  [TicketServiceImpl] Entered in to the TSGetCustmoerInput
+11:29:51,712 INFO  [TSSeatsManagement] Entered in to the TSSeatsManagement
+11:29:51,712 INFO  [TSSeatsManagement] Entered in to the TSSeatsManagement
+11:29:51,712 INFO  [TicketServiceImpl] Entered in to the TSGetCustmoerInput
+11:29:51,712 INFO  [TicketServiceImpl] Entered in to the TicketServiceImpl
+11:29:53,856 DEBUG [TSMainMenuScreen] Customer Selected Check Seats Availability
