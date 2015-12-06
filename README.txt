@@ -1,4 +1,4 @@
-This Ticket Service project can be set-up / run using the following methods
+This Ticket Service project can be set-up / run using the following methods and in Java 8 Environment.
 
 I. Please follow the instructions to set-up the project in IDE like Eclipse.
 
